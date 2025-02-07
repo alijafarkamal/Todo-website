@@ -1,7 +1,3 @@
-Here's a concise and beautiful `README.md` for your GitHub repository:  
-
----
-
 # 📝 Todo Website  
 
 A powerful and elegant **Todo Website** built with **TypeScript, Tailwind CSS, React, Express, and Node.js**, featuring **MS SQL database support**.  
@@ -51,7 +47,7 @@ npm run dev
 ```
 
 ## 📸 Screenshots  
-*(Add UI images here to showcase your app!)* ![Screenshot from 2025-02-07 12-47-36](https://github.com/user-attachments/assets/3e291cc0-ca9f-4d6f-a1d7-a70e1f6f9a32)
+![Screenshot from 2025-02-07 12-47-36](https://github.com/user-attachments/assets/3e291cc0-ca9f-4d6f-a1d7-a70e1f6f9a32)
  
 
 ## 📜 License  
