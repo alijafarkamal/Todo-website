@@ -50,11 +50,6 @@ npm run dev
 ![Screenshot from 2025-02-07 12-47-36](https://github.com/user-attachments/assets/3e291cc0-ca9f-4d6f-a1d7-a70e1f6f9a32)
  
 
-## 📜 License  
-This project is **open-source** under the **MIT License**.  
-
 ---
 
 🚀 **Contributions & Feedback Welcome!** Feel free to fork, raise issues, or suggest improvements. 💡🎉  
-
-Let me know if you want any modifications! 🚀
